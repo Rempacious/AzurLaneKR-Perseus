@@ -26,7 +26,7 @@ chmod +x apkeep
 
 # Download Azur Lane
 download_azurlane () {
-    if [ ! -f "kr.txwy.and.blhxx.apk" ]; then
+    if [ ! -f "kr.txwy.and.blhx.apk" ]; then
     ./apkeep -a kr.txwy.and.blhx .
     fi
 }
